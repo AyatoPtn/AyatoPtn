@@ -2,8 +2,8 @@
 
 ##
 
-- 🔭 Atualmente trabalho com Automações (RPA, RDA) e Analise de Dados (Python)
-- 🌱 Estudando: Flask, Django, 
+- 🔭 Atualmente trabalho com Automações (RPA, RDA) e Analise de Dados (Python), Cybersecurity.
+- 🌱 Cybersecurity
 - ✉️ Contate-me no E-mail: ayato.ptn@gmail.com 
 - 😄 Pronomes: Ele/Dele
 
